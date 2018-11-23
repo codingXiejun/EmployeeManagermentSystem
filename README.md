@@ -1,2 +1,9 @@
 # EmployeeManagerSystem
-基于SSM+easyUI+shiro的员工管理系统,很久以前做的了,还有许多bug
+
+* 表示层：jsp+easyUI
+
+* 业务层：Spring+SpringMVC
+
+* 持久层：Mybatis+dbcp+mysql
+
+* 访问地址：[localhost:8080/SSM/login](localhost:8080/SSM/login)
